@@ -15,7 +15,7 @@ This repository contains simple Python scripts I'm writing while learning the la
 
 ## 🚀 Why I Made This
 
-To track my progress and show hands-on learning from my notes on [Notion](https://sepia-baboon-f0a.notion.site/Leetcode-Problems-22c740b8b3c380658680f7b522fd3bc8).
+To track my progress and show hands-on learning from my notes on [Notion](https://sepia-baboon-f0a.notion.site/Python-Alpha-Notes-21d740b8b3c380149247ca17a25be665).
 
 Stay tuned as I learn and push more!
 
