@@ -12,7 +12,6 @@ This repository contains simple Python scripts I'm writing while learning the la
 - File Handling
 - Exception Handling
 - Object-Oriented Programming (OOP)
-- Magic Methods
 
 ## 🚀 Why I Made This
 
