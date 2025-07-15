@@ -13,6 +13,7 @@ This repository contains simple Python scripts I'm writing while learning the la
 - Exception Handling
 - Object-Oriented Programming (OOP)
 - Magic Methods
+
 ## 🚀 Why I Made This
 
 To track my progress and show hands-on learning from my notes on [Notion](https://sepia-baboon-f0a.notion.site/Python-Alpha-Notes-21d740b8b3c380149247ca17a25be665).
